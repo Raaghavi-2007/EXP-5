@@ -47,6 +47,7 @@ Load regulation:
 <img width="1059" height="549" alt="image" src="https://github.com/user-attachments/assets/7df7fa90-f531-4ea9-8afb-0fe559666ac2" />
 
 MODEL GRAPH:
+
 Line regulation:
 <img width="1252" height="674" alt="image" src="https://github.com/user-attachments/assets/efb635f1-f37a-4192-b59d-f774eac84a80" />
 
